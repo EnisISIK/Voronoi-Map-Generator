@@ -1,4 +1,4 @@
-# Voronoi-Map-Generator
+# 2D Voronoi-Map-Generator
 A Basic Voronoi Diagram based Biome Generation Tool
 
 This is a simple tool which is designed to create a 2D map using a Distorted Voronoi Diagram, assigning unique biomes to each seed based on temperature, humidity, and land values.
